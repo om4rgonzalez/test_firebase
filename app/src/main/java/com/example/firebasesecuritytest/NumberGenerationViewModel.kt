@@ -1,12 +1,9 @@
 package com.example.firebasesecuritytest
 
 import androidx.databinding.ObservableField
-import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
-import com.example.firebasesecuritytest.firebase.Device
 import com.google.firebase.database.*
 import java.math.BigInteger
-import java.util.*
 
 
 class NumberGenerationViewModel: ViewModel() {
