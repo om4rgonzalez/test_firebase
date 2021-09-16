@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Firebase Security Test</string>
+    <string name="initial_text">Numero generado</string>
+    <string name="btn_generate">Generar</string>
+</resources>
